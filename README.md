@@ -1,51 +1,117 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+---
+
+🧪 Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+
+🚀 Introdução
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
-### Objetivos
+Fala pessoal! Meu nome é Thiago 👋
+Inspirado na vibe do “Natty or Not” do fisiculturismo, resolvi trazer essa disputa para o mundo da tecnologia. Neste projeto, usei uma IA para animar páginas reais do quadrinho "Comidas Falantes", criado por um amigo meu.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+A grande pergunta é:
+👉 A animação parece humana ou feita por IA?
 
-### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+---
 
-## 📒 Descrição
-Breve descrição do seu projeto
+🎯 Bora pro Desafio!? Você Já Venceu 💪🤓
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Objetivo
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Avaliar a qualidade de animações geradas por IA a partir de páginas selecionadas do quadrinho Comidas Falantes e analisar se, em um futuro próximo, será possível criar animações completas 100% feitas por Inteligência Artificial.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+---
 
-### Exemplos e Insigths
+📒 Descrição
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Este projeto tem como propósito estudar, explorar e demonstrar o poder das IAs Generativas aplicadas à criação de animações.
+Aqui você vai ver:
 
-## Links Interessantes
+Como as IAs interpretam desenhos humanos
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Como animam quadros estáticos
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+E até que ponto elas conseguem parecer "natty"
+
+
+
+---
+
+🤖 Tecnologias Utilizadas
+
+Algumas das ferramentas e IAs utilizadas no processo:
+
+Glok – suporte de planejamento, prompts e organização
+
+Páginas do Quadrinho Comidas Falantes  
+
+
+
+---
+
+🧐 Processo de Criação
+
+1. Seleção das páginas do quadrinho Comidas Falantes
+
+
+2. Retoque das artes para deixar cores, contraste e contornos mais claros para a IA
+
+
+3. Uso de modelos generativos de vídeo/animação para animar expressões, movimentos e câmera
+
+
+4. Iterações com diferentes prompts até alcançar o efeito desejado
+
+
+5. Edição final para unir as animações geradas
+
+
+6. Testes comparativos: humano vs IA, natty vs fake natty 🧬
+
+
+
+
+---
+
+🚀 Resultados
+
+Animações coerentes baseadas nos quadros originais
+
+Movimentos fluidos (em alguns casos até “bons demais pra ser natty” 🤣)
+
+Diferenças perceptíveis entre técnicas de IAs diferentes
+
+Uma prévia do potencial das IAs para estúdios independentes e criadores solo
+
+
+Você pode encontrar os vídeos na pasta /results (ou onde você decidir colocar).
+
+
+---
+
+💭 Reflexão (Opcional)
+
+Criar algo "natty" com IA é um paradoxo:
+
+por um lado, a tecnologia ajuda e acelera absurdamente o processo
+
+por outro, fica cada vez mais difícil distinguir o que é feito à mão e o que é feito por máquinas
+
+
+A pergunta que fica é:
+👉 No futuro, o que vai significar ser "natty" na criação artística?
+
+
+---
+
+📬 Contato
+
+Se quiser trocar ideia sobre IA, design, código ou academia 👀💪
+📧 seu-email-aqui
+🌐 GitHub: https://github.com/ThexThiago
+
