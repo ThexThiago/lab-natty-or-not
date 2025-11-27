@@ -18,8 +18,6 @@ A grande pergunta é:
 
 ---
 
-🎯 Bora pro Desafio!? Você Já Venceu 💪🤓
-
 Objetivo
 
 Avaliar a qualidade de animações geradas por IA a partir de páginas selecionadas do quadrinho Comidas Falantes e analisar se, em um futuro próximo, será possível criar animações completas 100% feitas por Inteligência Artificial.
@@ -94,7 +92,7 @@ Você pode encontrar os vídeos na pasta /results (ou onde você decidir colocar
 
 ---
 
-💭 Reflexão (Opcional)
+💭 Reflexão 
 
 Criar algo "natty" com IA é um paradoxo:
 
