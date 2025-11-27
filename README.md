@@ -111,7 +111,6 @@ A pergunta que fica é:
 
 📬 Contato
 
-Se quiser trocar ideia sobre IA, design, código ou academia 👀💪
-📧 seu-email-aqui
-🌐 GitHub: https://github.com/ThexThiago
+Se quiser trocar ideia sobre IA, design, código ou academia
+🌐 linkedin: linkedin.com/in/thiagoferreiradesousa
 
